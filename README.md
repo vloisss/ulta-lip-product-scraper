@@ -23,6 +23,7 @@ Snippet of code
 ## Built With
 
 - Python
+- Jupyter Notebook
 - BeautifulSoup4
 - OpenPyxl
 - Pandas
