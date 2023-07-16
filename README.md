@@ -7,6 +7,8 @@
 
 Specifically, I scraped the platform for information on over 700 lip products. This information includes their name, price, rating, reviews, and if they are environmentally conscious. This project will be a valuable tool in cross-referencing makeup prices and ratings with other retailers, and in my own daily life as I regularly use makeup myself.
 
+I sorted the data gathered from scraping Ulta Beauty into a Pandas Dataframe, and input the data into an excel spreadsheet, or csv depending on preference.
+
 ## Relevant Images
 
 <img width="1000" alt="Screen Shot 2023-07-16 at 12 59 22 PM" src="https://github.com/vloisss/ulta-lip-product-scraper/assets/137721671/6e105828-a626-4178-a7a9-dc44fd84396d">
